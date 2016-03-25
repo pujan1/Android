@@ -1,23 +1,5 @@
-**## Android_activity**
+Series Of android Apps Which gives the basic idea of all the functionalities present in the Android OS and how to use them
 
-Android Deviced depend mainly on activity. 
-One view could be imaged as one activity.
-
-
-Explaination:
-- When we first start up the app Activity A loads and other remain closed as there is no need of them to be initiated to save the memory 
-![Activity1 C1]({{site.baseurl}}/http://i.imgur.com/z9045NT.png)
-we can see that the activity 1 oads without other activity even touch.
-There is a counter on whenever the activity is loaded the counter increases. 
-The total count is one when intitialized and keeps on increasing whenever the activity loads up.
-- When Activity 2 is loaded, activity 1 is stopped and the counter of the app is started with 1
-![Activity2 C1]({{site.baseurl}}/http://i.imgur.com/10Hnpn6.png)
-- With some more dialogue or activity switching we can raise the counter of the app by 1. Here is an example of activity 1 goes to 3 count when its been initialized 3 times.
-![]({{site.baseurl}}/http://i.imgur.com/KRLK2f8.png)
-- Same goes to other activyt as well.  Here are the following screenshots 
-![]({{site.baseurl}}/http://i.imgur.com/TizKpSQ.png)
-![]({{site.baseurl}}/http://i.imgur.com/s24TAID.png)
-- A dialogue box will also have the same property![]({{site.baseurl}}/http://i.imgur.com/HLoHPX5.png)
 
 
 

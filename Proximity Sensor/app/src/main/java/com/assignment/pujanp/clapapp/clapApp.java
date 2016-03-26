@@ -64,7 +64,7 @@ public class clapApp extends AppCompatActivity implements SensorEventListener {
 
     @Override
     public void onAccuracyChanged(Sensor sensor, int accuracy) {
-        player.stop();
+
 
     }
 }
